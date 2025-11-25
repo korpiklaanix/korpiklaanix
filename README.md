@@ -8,7 +8,7 @@
 <div style="text-align:center; margin: 40px 0;">
   <img 
     src="https://github.com/user-attachments/assets/26735da4-2a81-42c3-bca6-629236fe5b9f"
-    width="80%"
+    width="100%"
     align="center"
     style="border-radius: 20px;"
   />
