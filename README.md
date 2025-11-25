@@ -102,7 +102,9 @@ Bases de données (MySQL)</p>
 
 <p>
 📧 <strong>anais.berthome@outlook.fr</strong><br/>
-🌐 LinkedIn : [ton lien ici](https://www.linkedin.com/in/ana%C3%AFs-berthom%C3%A9-17a005172/)<br/>
+🌐 LinkedIn : <a href="https://www.linkedin.com/in/anaïs-berthomé-17a005172/" target="_blank">
+  Mon profil LinkedIn
+</a><br/>
 🐙 GitHub : bah… tu y es déjà 😄
 </p>
 
