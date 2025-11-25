@@ -1,7 +1,4 @@
-  <h1 style="margin-top: 25px;">🌸 Anaïs BERTHOME</h1>
-  <p style="font-size: 18px; margin-top: -10px;">
-    Développeuse Web Full-Stack en formation — motivée & passionnée
-  </p>
+
 </div>
 
 <br/>
@@ -15,6 +12,11 @@
 
 <br/>
 <br/>
+
+  <h1 style="margin-top: 25px;">🌸 Anaïs BERTHOME</h1>
+  <p style="font-size: 18px; margin-top: -10px;">
+    Développeuse Web Full-Stack en formation — motivée & passionnée
+  </p>
 
 
 <!-- SECTION A PROPOS -->
