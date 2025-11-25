@@ -1,11 +1,3 @@
-<div style="text-align:center; margin: 40px 0;">
-  <img 
-    src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23"
-    width="450"
-    align="right"
-    style="border-radius: 20px;"
-  />
-  
   <h1 style="margin-top: 25px;">🌸 Anaïs BERTHOME</h1>
   <p style="font-size: 18px; margin-top: -10px;">
     Développeuse Web Full-Stack en formation — motivée & passionnée
@@ -13,6 +5,17 @@
 </div>
 
 <br/>
+<div style="text-align:center; margin: 40px 0;">
+  <img 
+    src="https://github.com/user-attachments/assets/26735da4-2a81-42c3-bca6-629236fe5b9f"
+    width="80%"
+    align="center"
+    style="border-radius: 20px;"
+  />
+
+<br/>
+<br/>
+
 
 <!-- SECTION A PROPOS -->
 <h2>💫 À propos de moi</h2>
@@ -36,36 +39,29 @@
 <!-- STACK -->
 <h2>🛠️ Stack & Outils</h2>
 
-## 🚀 Tech Stack
-
-### Languages & Frameworks
+### <h3 style="margin-bottom: 5px;">Frontend</h3>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Environment
+### <h3 style="margin-bottom: 5px;">Backend</h3>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/API-7B61FF?style=for-the-badge&logo=swagger&logoColor=white)
+
+
+
+### <h3 style="margin-bottom: 5px;">Outils</h3>
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 style="margin-bottom: 5px;">Frontend</h3>
-<p>HTML5 • CSS3 • JavaScript (ES6+)<br/>
-React • Vite • TypeScript<br/>
-TailwindCSS • DaisyUI</p>
-
-<h3 style="margin-bottom: 5px;">Backend</h3>
-<p>Node.js • Express<br/>
-REST APIs<br/>
-Bases de données (MySQL)</p>
-
-<h3 style="margin-bottom: 5px;">Outils</h3>
-<p>Git & GitHub • VS Code • Figma </p>
 
 <br/>
 
