@@ -87,7 +87,7 @@
     <tr>
       <td><strong>The Wild Brick</strong></td>
       <td>Site LEGO interactif + galeries</td>
-      <td>React, Vite, Design</td>
+      <td>Js, Design</td>
     </tr>
     <tr>
       <td><strong>Hackathon Star Wars</strong></td>
