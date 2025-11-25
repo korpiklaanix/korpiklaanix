@@ -1,6 +1,6 @@
 🌸 Anaïs BERTHOME
 Développeuse Web Full-Stack en formation — créative, motivée & passionnée
-<img src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23" width="200" align="right" />
+<img src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23" width="500" align="right" />
 💫 À propos de moi
 
 Hello ! Moi c’est Anaïs, développeuse web passionnée par :
