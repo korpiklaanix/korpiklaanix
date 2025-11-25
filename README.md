@@ -14,16 +14,15 @@ Développeuse Web Full-Stack en formation — créative, motivée & passionnée 
 💫 À propos de moi
 
 Hello ! Moi c’est Anaïs, développeuse web passionnée par :
-✨ le front-end (React, Tailwind, design UI)
+✨ le front-end (React, design UI)
 🚀 le full-stack moderne (Node.js, Express, APIs)
-🎨 la création visuelle (illustrations, interfaces créatives)
 👩‍👧‍👧 et… ma vie de maman qui me booste chaque jour !
 
-Je suis actuellement en formation intensive 🎓 pour devenir développeuse Web Full-Stack — et j’adore construire des projets qui mélangent technique & créativité.
+Je suis actuellement en formation intensive 🎓 pour devenir développeuse Web Full-Stack — 
+<br/><br/>
+🛠️ Stack & Outils <br/>
 
-🛠️ Stack & Outils
 Frontend
-
 HTML5 • CSS3 • JavaScript (ES6+)
 
 React • Vite • TypeScript
