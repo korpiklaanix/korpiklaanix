@@ -22,7 +22,7 @@ Je suis actuellement en formation intensive 🎓 pour devenir développeuse Web 
 <br/><br/>
 🛠️ Stack & Outils <br/>
 
-Frontend
+<p style="font-weight: bold;">Frontend<p/>
 HTML5 • CSS3 • JavaScript (ES6+)
 
 React • Vite • TypeScript
