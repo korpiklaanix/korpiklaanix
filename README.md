@@ -1,25 +1,16 @@
-<!-- IMAGE DE PROFIL -->
-<div style="text-align:center; margin: 40px auto;">
+<div style="text-align:center; margin: 40px 0;">
   <img 
     src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23"
     width="450"
-    style="
-      display:block;
-      margin: 0 auto;
-      border-radius: 20px;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-    "
+    align="right"
+    style="border-radius: 20px;"
   />
+  
+  <h1 style="margin-top: 25px;">🌸 Anaïs BERTHOME</h1>
+  <p style="font-size: 18px; margin-top: -10px;">
+    Développeuse Web Full-Stack en formation — motivée & passionnée
+  </p>
 </div>
-
-<!-- TITRE -->
-<h1 style="text-align:center; font-size: 2rem; margin-bottom:5px;">
-  🌸 Anaïs BERTHOME
-</h1>
-
-<p style="text-align:center; font-size: 1.1rem; margin-top:0;">
-  Développeuse Web Full-Stack en formation — créative, motivée & passionnée
-</p>
 
 <br/>
 
@@ -110,8 +101,8 @@ Bases de données (MySQL)</p>
 <h2>📫 Me contacter</h2>
 
 <p>
-📧 <strong>anais.dev@gmail.com</strong><br/>
-🌐 LinkedIn : ton lien ici<br/>
+📧 <strong>anais.berthome@outlook.fr</strong><br/>
+🌐 LinkedIn : [ton lien ici](https://www.linkedin.com/in/ana%C3%AFs-berthom%C3%A9-17a005172/)<br/>
 🐙 GitHub : bah… tu y es déjà 😄
 </p>
 
