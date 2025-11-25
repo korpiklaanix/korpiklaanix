@@ -1,4 +1,11 @@
-<img src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23" width="300" style="border-radius: 10px; margin: 20px auto; display: block;"> <br/>
+<div style="text-align:center; margin: 25px 0;">
+  <img 
+    src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23"
+    width="300"
+    style="margin: 20px auto; border-radius: 20px; display: block;"
+  />
+</div>
+<br/>
 🌸 Anaïs BERTHOME <br/>
 
 Développeuse Web Full-Stack en formation — créative, motivée & passionnée <br/>
