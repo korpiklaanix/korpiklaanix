@@ -1,88 +1,133 @@
-<div style="text-align:center; margin: 25px 0;">
+<!-- IMAGE DE PROFIL -->
+<div style="text-align:center; margin: 30px 0;">
   <img 
     src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23"
     width="300"
-    style="margin: 20px auto; border-radius: 20px; display: block;"
+    style="
+      display:block;
+      margin: 0 auto;
+      border-radius: 20px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    "
   />
 </div>
+
+<!-- TITRE -->
+<h1 style="text-align:center; font-size: 2rem; margin-bottom:5px;">
+  🌸 Anaïs BERTHOME
+</h1>
+
+<p style="text-align:center; font-size: 1.1rem; margin-top:0;">
+  Développeuse Web Full-Stack en formation — créative, motivée & passionnée
+</p>
+
 <br/>
-🌸 Anaïs BERTHOME <br/>
 
-Développeuse Web Full-Stack en formation — créative, motivée & passionnée <br/>
+<!-- SECTION A PROPOS -->
+<h2>💫 À propos de moi</h2>
+
+<p>
+  Hello ! Moi c’est <strong>Anaïs</strong>, développeuse web passionnée par :
+</p>
+
+<ul>
+  <li>✨ le front-end (React, design UI)</li>
+  <li>🚀 le full-stack moderne (Node.js, Express, APIs)</li>
+  <li>👩‍👧‍👧 ma vie de maman qui me booste chaque jour</li>
+</ul>
+
+<p>
+  Je suis actuellement en formation intensive 🎓 pour devenir <strong>développeuse Web Full-Stack</strong> — et j’adore construire des projets qui mélangent technique & créativité.
+</p>
 
 <br/>
-💫 À propos de moi
 
-Hello ! Moi c’est Anaïs, développeuse web passionnée par :
-✨ le front-end (React, design UI)
-🚀 le full-stack moderne (Node.js, Express, APIs)
-👩‍👧‍👧 et… ma vie de maman qui me booste chaque jour !
+<!-- STACK -->
+<h2>🛠️ Stack & Outils</h2>
 
-Je suis actuellement en formation intensive 🎓 pour devenir développeuse Web Full-Stack — 
-<br/><br/>
-🛠️ Stack & Outils <br/>
+<h3 style="margin-bottom: 5px;">Frontend</h3>
+<p>HTML5 • CSS3 • JavaScript (ES6+)<br/>
+React • Vite • TypeScript<br/>
+TailwindCSS • DaisyUI</p>
 
-<p style="font-weight: bold;">Frontend<p/>
-HTML5 • CSS3 • JavaScript (ES6+)
+<h3 style="margin-bottom: 5px;">Backend</h3>
+<p>Node.js • Express<br/>
+REST APIs<br/>
+Bases de données (MySQL)</p>
 
-React • Vite • TypeScript
+<h3 style="margin-bottom: 5px;">Outils</h3>
+<p>Git & GitHub • VS Code • Figma • Canva • Postman</p>
 
-TailwindCSS • DaisyUI
+<br/>
 
-Backend
+<!-- PROJETS -->
+<h2>🚀 Mes projets favoris</h2>
 
-Node.js • Express
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left;">Projet</th>
+      <th style="text-align:left;">Description</th>
+      <th style="text-align:left;">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>MyFoodies</strong></td>
+      <td>Plateforme recettes avec notes, favoris & UI moderne</td>
+      <td>React, API perso</td>
+    </tr>
+    <tr>
+      <td><strong>The Wild Brick</strong></td>
+      <td>Site LEGO interactif + galeries</td>
+      <td>React, Vite, Design</td>
+    </tr>
+    <tr>
+      <td><strong>Hackathon Star Wars</strong></td>
+      <td>App basée sur une API SW, filtres & cartes perso</td>
+      <td>React, API</td>
+    </tr>
+  </tbody>
+</table>
 
-REST APIs
+<p>🔧 Toujours en train d’améliorer et optimiser mes projets !</p>
 
-Bases de données (MySQL)
+<br/>
 
-Outils
+<!-- OBJECTIFS -->
+<h2>🎯 Objectifs actuels</h2>
 
-Git & GitHub
+<ul>
+  <li>Approfondir TypeScript dans des projets concrets</li>
+  <li>Créer mon portfolio professionnel</li>
+  <li>Monter en compétences sur les animations et les UI avancées</li>
+  <li>Trouver un stage / alternance / première mission bientôt 🚀</li>
+</ul>
 
-VS Code
+<br/>
 
-Figma • Canva
+<!-- CONTACT -->
+<h2>📫 Me contacter</h2>
 
-Postman
+<p>
+📧 <strong>anais.dev@gmail.com</strong><br/>
+🌐 LinkedIn : ton lien ici<br/>
+🐙 GitHub : bah… tu y es déjà 😄
+</p>
 
-🚀 Mes projets favoris
-Projet	Description	Tech
-MyFoodies	Plateforme recettes avec notes, favoris & UI moderne	React, API perso
-The Wild Brick	Site LEGO interactif + galeries	React, Vite, Design
-Hackathon Star Wars	App basée sur une API SW, filtres & cartes perso	React, API
+<br/>
 
-🔧 Toujours en train d’améliorer et optimiser mes projets !
+<!-- FUN FACTS -->
+<h2>💖 Fun facts</h2>
 
-🎯 Objectifs actuels
+<ul>
+  <li>💜 Fan de Grey’s Anatomy depuis toujours</li>
+  <li>🧩 Addict aux LEGO</li>
+  <li>🌱 J’adore les plantes et j’ai un potager chez mes parents</li>
+  <li>🎤 Mes filles chantent… tout le temps</li>
+  <li>✨ Je code avec du café (trop ?) ☕</li>
+</ul>
 
-Approfondir TypeScript dans des projets concrets
-
-Créer mon portfolio professionnel
-
-Monter en compétences sur les animations et les UI avancées
-
-Trouver un stage / alternance / première mission bientôt 🚀
-
-📫 Me contacter
-
-📧 anaïs.dev@gmail.com
- (exemple)
-🌐 LinkedIn : ton lien
-🐙 GitHub : bah t’es déjà dessus 😄
-
-💖 Fun facts
-
-💜 Fan de Grey’s Anatomy depuis toujours
-
-🧩 Addict aux LEGO (tu construis beaucoup, avoue 😄)
-
-🌱 J’adore les plantes et je fais un potager chez mes parents
-
-🎤 Mes enfants chantent… tout le temps
-
-✨ Je code avec du café (trop ?) ☕
 
 
 <!--
