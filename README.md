@@ -1,4 +1,7 @@
 ## Hi there 👋
+<img width="1024" height="1024" alt="readmeGitHub" src="https://github.com/user-attachments/assets/096e8ece-1573-4d96-8860-22c5b0f3fb23" />
+
+
 
 <!--
 **korpiklaanix/korpiklaanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
