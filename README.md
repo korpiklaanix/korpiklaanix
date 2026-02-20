@@ -149,7 +149,6 @@
 
 <ul>
   <li>💜 Fan de Grey’s Anatomy depuis toujours</li>
-  <li>🧩 Addict aux LEGO</li>
   <li>🌱 J’adore les plantes et j’ai un potager chez mes parents</li>
   <li>🎤 Mes filles chantent… tout le temps</li>
   <li>✨ Je code avec du café (trop ?) ☕</li>
