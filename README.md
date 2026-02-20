@@ -4,11 +4,13 @@
 <br/>
 <div style="text-align:center; margin: 40px 0;">
   <img 
-    src="https://github.com/user-attachments/assets/1992b341-6d41-4de1-9c83-2dfb587693a1"
+    src="https://github.com/user-attachments/assets/b3fbc863-37e6-4fb5-88c7-703ec85e7e3f"
+    alt="1992b341-6d41-4de1-9c83-2dfb587693a1"
     width="100%"
     align="center"
     style="border-radius: 20px;"
   />
+
 
 <br/>
 <br/>
