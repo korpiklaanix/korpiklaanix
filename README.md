@@ -68,6 +68,7 @@
 <br/>
 
 <!-- PROJETS -->
+<!-- PROJETS -->
 <h2>🚀 Mes projets favoris</h2>
 
 <table>
@@ -80,26 +81,41 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>Flow Points</strong></td>
+      <td>
+        Jeu de réflexion type Flow Free avec génération procédurale de 300 niveaux full-fill,
+        progression dynamique et sauvegarde locale
+      </td>
+      <td>Flutter, Dart</td>
+    </tr>
+    <tr>
+      <td><strong>L’Écrin du Temps</strong></td>
+      <td>
+        Marketplace & gestionnaire de collection de montres avec espace admin,
+        gestion utilisateurs et logique e-commerce
+      </td>
+      <td>React, Node.js, Express, MySQL</td>
+    </tr>
+    <tr>
+      <td><strong>Collex</strong></td>
+      <td>
+        Application de gestion de collections (plantes, LEGO, livres…)
+        avec catégories dynamiques et UI moderne
+      </td>
+      <td>React, TypeScript, MySQL</td>
+    </tr>
+    <tr>
       <td><strong>MyFoodies</strong></td>
-      <td>Plateforme recettes avec notes, favoris & UI moderne</td>
-      <td>React, API perso</td>
-    </tr>
-    <tr>
-      <td><strong>The Wild Brick</strong></td>
-      <td>Site LEGO interactif + galeries</td>
-      <td>Js, Design</td>
-    </tr>
-    <tr>
-      <td><strong>Hackathon Star Wars</strong></td>
-      <td>App basée sur une API SW, filtres & cartes perso</td>
-      <td>React, API</td>
+      <td>
+        Plateforme de recettes avec favoris, commentaires
+        et gestion locale des données
+      </td>
+      <td>React, API personnalisée</td>
     </tr>
   </tbody>
 </table>
 
-<p>🔧 Toujours en train d’améliorer et optimiser mes projets !</p>
-
-<br/>
+<p>🔧 Toujours en train d’améliorer, refactoriser et optimiser mes projets (UI, performance, architecture).</p>
 
 <!-- OBJECTIFS -->
 <h2>🎯 Objectifs actuels</h2>
